@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "incremental-dom": "^0.3.0",
-    "metal-component": "metal/metal-component#master"
+    "metal-component": "metal/metal-component#id"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
